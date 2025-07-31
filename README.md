@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rosaperea5030/rosaperea5030/main/Screenshot%202025-07-27%20184238.png" width="100%" alt="Playboy Banner"/>
+</p>
+
 - 👋 Hi, I’m @rosaperea5030 but my friends call me lilo
 - 👀 I’m interested in men & school
 - 🌱 I’m currently learning python programming and find myself obsessed; Learned C++ over the spring semester
@@ -6,7 +10,4 @@
 - 😄 Pronouns: It >.< & The one
 - ⚡ Fun fact: I like to freestyle but I'm terrified of writing my lyrics down for some reason.
 
-<!---
-rosaperea5030/rosaperea5030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
